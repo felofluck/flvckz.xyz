@@ -112,6 +112,19 @@ export default function ResumePage() {
         </Link>
         <div className="mb-8 md:mb-12 space-y-1 text-sm md:text-base">
           <div className="flex flex-wrap md:flex-nowrap">
+            
+            <a
+              href="https://github.com/flvckz"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-70 transition-opacity"
+            >
+              Polygram
+            </a>
+            <span className="mx-2 md:mx-4">Polymarket integrated Telegram Bot - In progress...</span>
+          </div>
+          <div className="flex flex-wrap md:flex-nowrap">
+            
             <a
               href="https://aster-strategy.gitbook.io/asterstrategy-docs/WJ8wnrTo3CVgyulPgXC6"
               target="_blank"

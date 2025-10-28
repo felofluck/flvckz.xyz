@@ -29,14 +29,14 @@ export default function ProjectsPage() {
 
   const projects = [
     {
-      name: "AsterStrategy",
+      name: "AsterStrategy - 2025",
       description: "Web3 Token Treasury @ asterstrategy.org",
       url: "https://aster-strategy.gitbook.io/asterstrategy-docs/WJ8wnrTo3CVgyulPgXC6",
       embedUrl: "https://aster-strategy.gitbook.io/asterstrategy-docs/WJ8wnrTo3CVgyulPgXC6",
       type: "gitbook",
     },
     {
-      name: "Placey",
+      name: "Placey - 2022/23",
       description: "Web3 Lands Space backed by Decentraland",
       url: "https://www.figma.com/proto/5mwdl5uOm7aQ02IeK4ZwzD/Placey-Landing-Page?node-id=0-1&p=f&t=G8VvS7LUYFBpoLse-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
       embedUrl:
@@ -44,7 +44,7 @@ export default function ProjectsPage() {
       type: "figma",
     },
     {
-      name: "Park-It",
+      name: "Park-It - 2021/22",
       description: "Native Android App @ ORT Labs",
       url: "https://github.com/flvckz/park-it-finalversion",
       embedUrl:
@@ -52,7 +52,7 @@ export default function ProjectsPage() {
       type: "figma",
     },
     {
-      name: "RE Landing",
+      name: "RE Landing - 2023",
       description: "Landing Page for RE Business @ Aptimia",
       url: "https://www.figma.com/proto/nu0yPkjvf4tCbseICysLHD/Real-Estate-Landing-1?node-id=3-27&starting-point-node-id=3%3A27&t=XOTOC5cGIl8twJrp-1",
       embedUrl:
@@ -60,7 +60,7 @@ export default function ProjectsPage() {
       type: "figma",
     },
     {
-      name: "Nazko Unique Bikes",
+      name: "Nazko Unique Bikes - 2023",
       description: "Landing for Nazo Unique Bikes @ Aptimia",
       url: "https://www.figma.com/proto/hDeftHJnAYJON0EqC1Zvxr/UNIQUE-BIKES--Community-?node-id=1-1038&p=f&t=RUdNptxxAFTT1Ib9-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A519",
       embedUrl:
@@ -68,7 +68,7 @@ export default function ProjectsPage() {
       type: "figma",
     },
     {
-      name: "Adopt-a-Dog",
+      name: "Adopt-a-Dog - 2023",
       description: "SaaS @ ORT Labs",
       url: "https://github.com/flvckz/parcial-tp3",
       embedUrl:
