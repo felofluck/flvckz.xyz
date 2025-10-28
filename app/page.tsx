@@ -118,7 +118,7 @@ export default function ResumePage() {
               rel="noopener noreferrer"
               className="underline hover:opacity-70 transition-opacity"
             >
-              AsterStategy
+              AsterStrategy
             </a>
             <span className="mx-2 md:mx-4">Web3 Token Treasury @ asterstrategy.org</span>
           </div>

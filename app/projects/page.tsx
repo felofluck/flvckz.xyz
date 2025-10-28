@@ -131,7 +131,7 @@ export default function ProjectsPage() {
         {projects.map((project) => (
           <div
             key={project.name}
-            className={`border rounded-lg overflow-hidden ${
+            className={`border rounded-lg overflow-hidden hover:opacity-70 transition-opacity ${
               isDarkMode ? "border-white/20 bg-white/5" : "border-black/20 bg-white"
             }`}
           >
