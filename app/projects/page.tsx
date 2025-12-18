@@ -217,6 +217,14 @@ export default function ProjectsPage() {
       <div className="py-4 md:py-8 flex justify-center">
         <div className="flex flex-wrap justify-center gap-4 md:gap-8 text-base md:text-lg font-mono px-4">
           <a
+              href="https://github.com/felofluck"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-70 transition-opacity"
+            >
+              Github
+            </a>
+          <a
             href="https://linktr.ee/flvckz"
             target="_blank"
             rel="noopener noreferrer"
