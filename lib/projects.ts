@@ -12,19 +12,6 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    slug: 'polygram',
-    name: 'Polygram',
-    description: 'Polymarket integrated Telegram Bot - WIP',
-    techStack: ['JavaScript', 'Telegram Bot API', 'PostgreSQL'],
-    date: '2025',
-    type: 'Telegram Bot',
-    client: 'Personal',
-    url: 'https://github.com/flvckz/polygram',
-    images: [
-      { src: '/polygram-banner.png', alt: 'Polygram preview' },
-    ],
-  },
-  {
     slug: 'asterstrategy',
     name: 'AsterStrategy',
     description: 'Web3 Token Treasury and Yield Platform',
@@ -37,6 +24,19 @@ export const projects: Project[] = [
       { src: '/asterstrategy-landing.png', alt: 'AsterStrategy Landing 1' },
       { src: '/asterstrategy-landing-data.png', alt: 'AsterStrategy Landing 2' },
       { src: '/asterstrategy-treasury-dashboard.png', alt: 'AsterStrategy Treasury Dashboard' },
+    ],
+  },
+  {
+    slug: 'polygram',
+    name: 'Polygram',
+    description: 'Polymarket integrated Telegram Bot - WIP',
+    techStack: ['JavaScript', 'Telegram Bot API', 'PostgreSQL'],
+    date: '2025',
+    type: 'Telegram Bot',
+    client: 'Personal',
+    url: 'https://github.com/flvckz/polygram',
+    images: [
+      { src: '/polygram-banner.png', alt: 'Polygram preview' },
     ],
   },
   {
