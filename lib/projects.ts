@@ -30,14 +30,15 @@ export const projects: Project[] = [
     slug: 'asterstrategy',
     name: 'AsterStrategy',
     description: 'Web3 Token Treasury @ asterstrategy.org',
-    techStack: ['Docs', 'Gitbook', 'Web3'],
+    techStack: ['Docs', 'Gitbook', 'Web3', 'React', 'MERN', 'Solidity'],
     date: '2025',
     type: 'documentation',
     client: 'AsterStrategy',
     url: 'https://aster-strategy.gitbook.io/asterstrategy-docs/WJ8wnrTo3CVgyulPgXC6',
     images: [
-      { src: '/placeholder.jpg', alt: 'AsterStrategy docs 1' },
-      { src: '/placeholder.jpg', alt: 'AsterStrategy docs 2' },
+      { src: '/asterstrategy-landing.png', alt: 'AsterStrategy Landing 1' },
+      { src: '/asterstrategy-landing-data.png', alt: 'AsterStrategy Landing 2' },
+      { src: '/asterstrategy-treasury-dashboard.png', alt: 'AsterStrategy Treasury Dashboard' },
     ],
   },
   {
