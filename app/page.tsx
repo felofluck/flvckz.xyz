@@ -221,6 +221,14 @@ export default function ResumePage() {
         <div className="relative md:absolute md:bottom-8 md:left-8 pb-4 md:pb-0">
           <div className="flex flex-wrap justify-center md:justify-start gap-4 md:gap-8 text-base md:text-lg font-mono">
             <a
+              href="https://github.com/felofluck"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-70 transition-opacity"
+            >
+              Github
+            </a>
+            <a
               href="https://linktr.ee/flvckz"
               target="_blank"
               rel="noopener noreferrer"
