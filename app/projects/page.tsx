@@ -36,7 +36,7 @@ export default function ProjectsPage() {
   const projects = [
     {
       name: "AsterStrategy - 2025",
-      description: "Web3 Token Treasury @ asterstrategy.org",
+      description: "Web3 Token Treasury - asterstrategy.org",
       url: "https://aster-strategy.gitbook.io/asterstrategy-docs/WJ8wnrTo3CVgyulPgXC6",
       embedUrl: "https://aster-strategy.gitbook.io/asterstrategy-docs/WJ8wnrTo3CVgyulPgXC6",
       type: "gitbook",
